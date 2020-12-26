@@ -13,3 +13,9 @@ Learning Github  | [Topic 2](https://mohammadrahhal.github.io/reading-notes/GITH
 The Code's Computer | [Topic 3](https://mohammadrahhal.github.io/reading-notes/CODERSCOMPUTERMOH)
 The Cloud | [Topic 4](https://mohammadrahhal.github.io/reading-notes/CLOUDMOH)
 The Growth Mindset | [Topic 5](https://mohammadrahhal.github.io/reading-notes/GROTHMOHRAHHAL)
+Building Website | [Topic 6](https://mohammadrahhal.github.io/reading-notes/WEBSITEMOHRAHHAL)
+JavaScript | [Topic 7](https://mohammadrahhal.github.io/reading-notes/JAVASCRIPTMOHRAHHAL)
+Vidoes Notes | [Topic 8](https://mohammadrahhal.github.io/reading-notes/VIDEOSNOTEMOHRAHHAL)
+Programming with JavaScript | [Topic 9](https://mohammadrahhal.github.io/reading-notes/PJAVASCRIPTMOHRAHHAL)
+Operators and Loops | [Topic 10](https://mohammadrahhal.github.io/reading-notes/LOOPMOHRAHHAL)
+
