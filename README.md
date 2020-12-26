@@ -9,4 +9,4 @@ Those who hold a **growth mindset** believe that they can get better at somethin
 Topic Name | Links
 ---------- | -----
 Learning Markdown  | [Topic 1](https://mohammadrahhal.github.io/reading-notes/MARKDOWN)
-Learning Github  | [Topic 2](https://mohammadrahhal.github.io/reading-notes/GITHUB)
+Learning Github  | [Topic 2](https://mohammadrahhal.github.io/reading-notes/GITHUBINTRO)
