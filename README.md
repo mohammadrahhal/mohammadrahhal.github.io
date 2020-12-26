@@ -8,4 +8,4 @@ Those who hold a **growth mindset** believe that they can get better at somethin
 ## Table of Contents
 Topic Name | Links
 ---------- | -----
-Learning Markdown  | [Topic 1](https://mohammadrahhal.github.io/reading-notes/test)
+Learning Markdown  | [Topic 1](https://mohammadrahhal.github.io/reading-notes/TEST)
